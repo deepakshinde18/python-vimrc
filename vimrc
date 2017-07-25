@@ -148,8 +148,8 @@ let g:riv_disable_folding=1
 "=====================================================
 
 " python executables for different plugins
-let g:pymode_python='python'
-let g:syntastic_python_python_exec='python'
+let g:pymode_python='python3'
+let g:syntastic_python_python_exec='python3'
 
 " rope
 let g:pymode_rope=0
