@@ -53,6 +53,10 @@ call vundle#begin()
     Plugin 'klen/python-mode'                   " Python mode (docs, refactor, lints...)
     Plugin 'scrooloose/syntastic'               " Syntax checking plugin for Vim
 
+    "-------------------=== colorschemes support ===-------------------
+    Plugin 'beigebrucewayne/Turtles'
+
+
 call vundle#end()                           " required
 filetype on
 filetype plugin on
