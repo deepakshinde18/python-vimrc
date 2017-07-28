@@ -55,6 +55,7 @@ call vundle#begin()
 
     "-------------------=== colorschemes support ===-------------------
     Plugin 'beigebrucewayne/Turtles'
+    Plugin 'crusoexia/vim-monokai'
 
 
 call vundle#end()                           " required
